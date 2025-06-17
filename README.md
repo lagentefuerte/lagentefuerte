@@ -45,6 +45,12 @@ I am a student of Cybersecurity Engineering at Universidad Rey Juan Carlos. This
 - **Practica-De-Sistemas-De-Informacion**  
   Flask + SQLite app for phishing detection with data analysis and basic ML.
 
+### 🌐 Web Development & APIs
+- **MercaMostoles**  
+  Java backend project using Spring Boot.  
+  Focused on building a secure REST API for an e-commerce platform supporting local business.  
+  Includes authentication, user roles, data validation, and standard web security practices.
+
 ### 📚 Other Technical Practices
 - **EC-Practicas**  
   MIPS32 assembly programming with low-level routines and register manipulation.
