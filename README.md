@@ -53,7 +53,7 @@ I am a student of Cybersecurity Engineering at Universidad Rey Juan Carlos. This
 
 ### 📚 Other Technical Practices
 - **EC-Practicas**  
-  MIPS32 assembly programming with low-level routines and register manipulation.
+  MIPS32 assembly programming with low-level routines, register manipulation and a buffer overflow attack.
 
 ### 🎓 Final Degree Project (TFG)
 - **TFG - Malware Evasion Techniques**  
@@ -79,7 +79,7 @@ I am a student of Cybersecurity Engineering at Universidad Rey Juan Carlos. This
 
 ## 📬 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/mart%C3%ADn-d%C3%ADaz-benito-%C3%A1lvarez-64a973300]
+- 💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-d%C3%ADaz-benito-%C3%A1lvarez-64a973300)
 
 ---
 
