@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Martin (@lagentefuerte)
+# 👋 Hi! I'm Martin (@mdiazbenito)
 
 I am a student of Cybersecurity Engineering at Universidad Rey Juan Carlos. This repository gathers academic projects completed during my studies, focusing on cyber security, industrial networks, programming and forensic analysis.
 
